@@ -55,4 +55,3 @@ A premium, responsive AI-powered wellness companion built with **React**, **Type
 This application is for informational purposes only and does not provide medical diagnoses or professional medical advice. Always consult with a qualified healthcare provider for medical concerns.
 
 ---
-Created with ❤️ by Antigravity AI
