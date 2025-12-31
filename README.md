@@ -50,6 +50,16 @@ A premium, responsive AI-powered wellness companion built with **React**, **Type
 - `src/App.tsx`: Main UI assembly with animations.
 - `src/App.css`: Core design system and glassmorphic styles.
 
+## 🗺️ Future Roadmap
+
+We are constantly looking to improve Wellness AI. Some planned features include:
+- 💊 **Enhanced Health Insights**: Integration with medical APIs for more detailed information.
+- 📊 **Health Tracking**: Secure storage for users to track their wellness journey over time.
+- 🎙️ **Voice Interaction**: Accessibility improvements through voice-to-text and text-to-voice.
+- 🌍 **Multilingual Support**: Providing wellness assistance in multiple languages.
+- ⌚ **Wearable Integration**: Syncing with devices like Apple Health or Google Fit for real-time health data.
+- 🥗 **Personalized Plans**: AI-generated nutrition and exercise recommendations based on user goals.
+
 ## 📝 Disclaimer
 
 This application is for informational purposes only and does not provide medical diagnoses or professional medical advice. Always consult with a qualified healthcare provider for medical concerns.
